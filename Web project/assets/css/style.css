@@ -258,10 +258,7 @@ h4 {
   margin-top: 40px;
   position: relative;
   width: 100%;
-  /* padding-right:70px;
-  padding-left:70px; */
   height: 80vh;
-  /* overflow-x: hidden; */
 }
 .img-fluid {
     width: 100%;
@@ -273,10 +270,8 @@ h4 {
   justify-content: center;
   align-items: center;
   border-radius: 15px;
-  /* width: 55%; */
   position: relative;
   width: 100%;
-  /* padding-right: 15px; */
   padding-left: 15px;
 }
 .feature {
@@ -339,10 +334,8 @@ a:hover {
 }
 #testimonials .author img {
     max-width: 120px;
-    /* margin-bottom: -60px; */
 }
 .owl-carousel .owl-item img {
-    /* display: block; */
     position: relative;
     width: 100%;
     padding: 40px 30px;
@@ -412,13 +405,6 @@ footer .footer-content {
     margin-right: auto;
     margin-left: auto;
 }
-.row {
-    /* display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    gap: 37px; */
-}
 .footer-content .right-content {
     color: #fff;
 }
@@ -439,7 +425,7 @@ form {
 .contact-form {
     position: relative;
     z-index: 10;
-    padding: 45px;
+    padding: 25px;
     border-radius: 5px;
     background-color: #fff;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -462,11 +448,7 @@ form {
     appearance: none;
     margin-bottom: 30px;
 }
-/* .contact-form textarea {
-    height: 150px;
-    resize: none;
-    padding: 20px;
-} */
+
 textarea {
     overflow: auto;
     resize: vertical;
@@ -503,9 +485,7 @@ fieldset {
     padding-block: 0.35em 0.625em;
     border: 0;
 }
-.contact-form {
-    text-align: center;
-}
+
 .contact-form textarea {
     height: 150px;
     resize: none;
@@ -571,9 +551,7 @@ ul, li {
     padding-right: 15px;
     padding-left: 15px;
 }
-/* #message{
-    width: 450px;
-} */
+
 .footer-content .right-content h2 {
     margin-top: 30px;
     margin-bottom: 70px;
@@ -629,5 +607,5 @@ p {
     flex-direction: column;
     gap: 20px;
 }
-/* responsiveness */
+
 
